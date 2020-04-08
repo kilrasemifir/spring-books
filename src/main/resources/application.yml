@@ -1,0 +1,6 @@
+spring:
+  elasticsearch:
+    rest:
+      password: changeme
+      username: elastic
+
